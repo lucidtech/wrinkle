@@ -1,0 +1,20 @@
+{
+  "name": "william_game_react",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.1.1"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "semantic-ui": "https://registry.npmjs.org/semantic-ui/-/semantic-ui-2.2.13.tgz",
+    "semantic-ui-react": "^0.68.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
